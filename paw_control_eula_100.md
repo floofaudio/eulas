@@ -12,6 +12,10 @@ By installing, copying, or otherwise using the Licensed Product (Software), the 
 - **"Licensor"** shall refer to the company or author, Floof Audio.
 - **"Software/Licensed product"** shall mean Paw Control, the Licensed Product provided pursuant to this EULA.
 
+## EULA Updates
+
+Floof Audio reserves the right to modify this EULA at any time and for any reason. If we make material changes to the EULA, we will notify you by posting a notice on our website or sending you a notification. Your continued use of the Software after such changes have been notified will constitute your consent to the changes. Each version of this EULA will be identified at the top of the page by its effective date, and we will also keep previous versions of this EULA in an archive for your review.
+
 ## Grant of License
 
 Subject to the terms of this EULA, Floof Audio hereby grants to the Licensee, a royalty-free, revocable, limited, non-exclusive license during the term of this EULA to possess and to use a copy of the Software. The Licensee is not allowed to make a charge for distributing this Software, either for profit or merely to recover media and distribution costs.
@@ -21,10 +25,6 @@ Subject to the terms of this EULA, Floof Audio hereby grants to the Licensee, a 
 You hereby unconditionally agree that all rights, titles, and interest in the copyrights and other intellectual property rights in the Licensed Product reside with the Licensors. The trademarks, logos, designs, and service marks appearing on the Licensed Product are registered and unregistered marks of the Licensor. Accordingly, nothing in this EULA or the Licensed Product grants you any right to use any form of intellectual property contained in the Licensed Product.
 
 Therefore, all rights, titles, interests, and copyrights in and/or to the Software, including but not limited to all images, graphics, animations, audio, video, music, text, data, code, algorithm, and information, are owned by the Licensor. Accordingly, the Software is protected by all applicable copyright laws and international treaties, and the Licensee is expected to use the Software concerning all intellectual property contained therein, except as otherwise provided for in this EULA.
-
-## EULA Updates
-
-Floof Audio reserves the right to modify this EULA at any time and for any reason. If we make material changes to the EULA, we will notify you by posting a notice on our website or sending you a notification. Your continued use of the Software after such changes have been notified will constitute your consent to the changes. Each version of this EULA will be identified at the top of the page by its effective date, and we will also keep previous versions of this EULA in an archive for your review.
 
 ## Description of Rights and Limitations
 
